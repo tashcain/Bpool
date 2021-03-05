@@ -65,7 +65,7 @@ function Join(){
             </Container>
             
             </div>
-            <div style={{color : "white" ,background:"#182B49", padding: "70px 0 80px 0 "}}>
+            <div style={{color : "white" ,background:"black", padding: "70px 0 80px 0 "}}>
                 <Footer/>
            </div>
 
