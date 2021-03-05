@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Bpool/static/css/main.a6677de1.chunk.css",
+    "main.js": "/Bpool/static/js/main.a25271e8.chunk.js",
+    "main.js.map": "/Bpool/static/js/main.a25271e8.chunk.js.map",
+    "runtime-main.js": "/Bpool/static/js/runtime-main.70f650c9.js",
+    "runtime-main.js.map": "/Bpool/static/js/runtime-main.70f650c9.js.map",
+    "static/css/2.ec02d681.chunk.css": "/Bpool/static/css/2.ec02d681.chunk.css",
+    "static/js/2.792bbb24.chunk.js": "/Bpool/static/js/2.792bbb24.chunk.js",
+    "static/js/2.792bbb24.chunk.js.map": "/Bpool/static/js/2.792bbb24.chunk.js.map",
+    "static/js/3.6ba8f063.chunk.js": "/Bpool/static/js/3.6ba8f063.chunk.js",
+    "static/js/3.6ba8f063.chunk.js.map": "/Bpool/static/js/3.6ba8f063.chunk.js.map",
+    "index.html": "/Bpool/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/Bpool/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.a6677de1.chunk.css.map": "/Bpool/static/css/main.a6677de1.chunk.css.map",
+    "static/js/2.792bbb24.chunk.js.LICENSE.txt": "/Bpool/static/js/2.792bbb24.chunk.js.LICENSE.txt",
+    "static/media/coffee.3df27557.svg": "/Bpool/static/media/coffee.3df27557.svg",
+    "static/media/logo.fd75be1b.png": "/Bpool/static/media/logo.fd75be1b.png",
+    "static/media/loop.58bc52b5.svg": "/Bpool/static/media/loop.58bc52b5.svg",
+    "static/media/refresh.d08d1dcd.png": "/Bpool/static/media/refresh.d08d1dcd.png",
+    "static/media/screen.584af9a8.svg": "/Bpool/static/media/screen.584af9a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f650c9.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.792bbb24.chunk.js",
+    "static/css/main.a6677de1.chunk.css",
+    "static/js/main.a25271e8.chunk.js"
+  ]
+}
