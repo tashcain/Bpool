@@ -24,6 +24,11 @@ function Home() {
            <Home2/>
            </div>
            <br/>
+           <br/>
+           <div style={{padding: "20px 0 20px 0"}}>
+           <Home2/>
+           </div>
+           <br/>
            <div style={{padding: "20px 0 20px 0"}}>
            <Home4/>
            </div>
