@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Landbody from '../components/landbody';
 import Home2 from '../components/home2';
+import Home2a from '../components/home2a';
 import Home4 from '../components/home4';
 import Home5 from '../components/home5';
 import '../styles/landingpage.css';
@@ -26,7 +27,7 @@ function Home() {
            <br/>
            <br/>
            <div style={{padding: "20px 0 20px 0"}}>
-           <Home2/>
+           <Home2a/>
            </div>
            <br/>
            <div style={{padding: "20px 0 20px 0"}}>
