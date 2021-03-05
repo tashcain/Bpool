@@ -64,7 +64,7 @@ function JoinstickyMenu() {
                                             </li>
                                             </ul>
                                 <div>
-                                    <button class="custom-btnl btn-13">Connect Wallet</button>
+                                    <button class="custom-btnl btn-13l">Connect Wallet</button>
                                 </div>
                                 {/* <div className="apply-btn">
                                     <Link to={process.env.PUBLIC_URL + "/registration"}>Launch App</Link>

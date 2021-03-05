@@ -74,7 +74,7 @@ function MobileMenu() {
                                     </div>
                                 </div>
                                 <div>
-                                        <Link to="/join"><button class="custom-btnlm btn-13">Launch App</button></Link>
+                                        <Link to="/join"><button class="custom-btnlm btn-13l">Launch App</button></Link>
                                         </div>
                                 {/* <div className="apply-btn">
                                     <Link to={process.env.PUBLIC_URL + "/registration"}>Launch App</Link>

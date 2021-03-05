@@ -44,22 +44,22 @@ class Header extends Component {
                             <Row>
                                 <Col md="2">
                                     <div className="logo">
-                                        <Link to={process.env.PUBLIC_URL + "/"}><img style={{height: "60px"}} src={Logo} alt="" /><span className="Logo">BSCPOOL</span></Link>
+                                        <Link ><img style={{height: "60px"}} src={Logo} alt="" /><span className="Logo">BSCPOOL</span></Link>
                                     </div>
                                 </Col>
                                 <Col md="10">
                                     <div className="menu-box d-flex justify-content-end">
                                         <ul className="nav menu-nav">
                                             <li className="nav-item dropdown active">
-                                                <Link onClick={this.handlescrollhiw} className="nav-link dropdown-toggle" to={process.env.PUBLIC_URL + "/"} data-toggle="dropdown">How it works <i className="las la-angle-down"></i></Link>
+                                                <Link onClick={this.handlescrollhiw} className="nav-link dropdown-toggle"  data-toggle="dropdown">How it works <i className="las la-angle-down"></i></Link>
                                                 
                                             </li>
                                             <li className="nav-item dropdown">
-                                                <Link onClick={this.handlescrollbft} className="nav-link dropdown-toggle" to={process.env.PUBLIC_URL + "/"} data-toggle="dropdown">Benifits <i className="las la-angle-down"></i></Link>
+                                                <Link onClick={this.handlescrollbft} className="nav-link dropdown-toggle"  data-toggle="dropdown">Benifits <i className="las la-angle-down"></i></Link>
                                 
                                             </li>
                                             <li className="nav-item dropdown">
-                                                <Link onClick={this.handlescrolltest} className="nav-link dropdown-toggle" to={process.env.PUBLIC_URL + "/"} data-toggle="dropdown">Testimonials <i className="las la-angle-down"></i></Link>
+                                                <Link onClick={this.handlescrolltest} className="nav-link dropdown-toggle"  data-toggle="dropdown">Testimonials <i className="las la-angle-down"></i></Link>
                                                 
                                             </li>
                                             <li className="nav-item dropdown">
@@ -105,7 +105,7 @@ class Header extends Component {
                                             </ul>
                                         </div>
                                         <div>
-                                        <Link to="/join"><button class="custom-btnl btn-13">Launch App</button></Link>
+                                        <Link to="/join"><button class="custom-btnl btn-13l">Launch App</button></Link>
                                         </div>
 
                                         {/* <div className="apply-btn">

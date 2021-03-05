@@ -65,7 +65,7 @@ class Joinheader extends Component {
                                     <div className="menu-box d-flex justify-content-end">
                                         
                                         <div>
-                                        <button class="custom-btnl btn-13">Connect Wallet</button>
+                                        <button class="custom-btnl btn-13l">Connect Wallet</button>
                                         </div>
 
                                         {/* <div className="apply-btn">
