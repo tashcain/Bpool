@@ -9,6 +9,7 @@ import { Styles } from "../styles/headerTwo";
 import '../styles/button.css';
 import { scroller } from "react-scroll";
 import Logo from '../asset/logo.png';
+import Medium from '../asset/medium-r.png';
 
 
 
@@ -97,7 +98,7 @@ class Header extends Component {
                                             </li>
                                             <li className="nav-item dropdown">
                                                 <Link className="nav-link dropdown-toggle" to='/join' data-toggle="dropdown">
-                                                <img src="https://img.icons8.com/metro/15/000000/m.png"/>
+                                                <img style={{height : "14px"}} src={Medium}/>
                                                 </Link>
                                                 
                                             </li>

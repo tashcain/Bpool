@@ -4,6 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import { Styles } from "../../styles/stickyMenu.js";
 import '../../styles/button.css';
 import Logo from '../../asset/logo.png';
+import Medium from '../../asset/medium-r.png';
 
 function JoinstickyMenu() {
     useEffect(() => {
@@ -58,7 +59,7 @@ function JoinstickyMenu() {
                                             </li>
                                             <li className="nav-item dropdown">
                                                 <Link className="nav-link dropdown-toggle" to='/join' data-toggle="dropdown">
-                                                <img src="https://img.icons8.com/metro/15/000000/m.png"/>
+                                                <img style={{height : "14px"}} src={Medium}/>
                                                 </Link>
                                                 
                                             </li>
