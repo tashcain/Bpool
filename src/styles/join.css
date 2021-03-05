@@ -1,0 +1,17 @@
+.timer{
+    font-size: 60px;
+}
+
+.stak{
+    font-size: 17px;
+}
+
+.joinl{
+    padding: 13% 0 0 12%;
+}
+
+@media(max-width : 400px){
+    .joinl{
+        padding: 13% 0 0 0%;
+    }
+}

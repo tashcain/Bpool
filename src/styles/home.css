@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+.heading{
+    font-size: 3.3rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    /* display: inline-block; */
+    padding-bottom: 5px;
+    position: relative;
+    text-align: center;
+}
+
+.heading:before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    border-bottom: 4px solid white;
+}
+.heading2:before{
+    content: "";
+    position: absolute;
+    width: 35%;
+    height: 1px;
+    bottom: 0;
+    left: 200px;
+    border-bottom: 4px solid #f3ba2f;
+}
+.infoheading{
+    font-size: 2rem;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.hunder{
+    font-size: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+    line-height  : 28px;
+}
+
+.hunderlist{
+    font-size: 1.4rem;
+    font-family: 'Roboto', sans-serif;
+    padding   : 10px 0;
+    line-height  : 28px;
+
+}
+
+@media(max-width: 545px){
+    .heading{
+        font-size: 2.7rem;
+        font-family: 'Roboto Condensed', sans-serif;
+    
+    }
+    .infoheading{
+        font-size: 1.3rem;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    .heading2:before{
+        content: "";
+        position: absolute;
+        width: 35%;
+        height: 1px;
+        bottom: 0;
+        left: 110px;
+        border-bottom: 4px solid #f3ba2f;
+    }
+    
+}
