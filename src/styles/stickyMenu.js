@@ -32,7 +32,7 @@ export const Styles = styled.div`
 
                     a.nav-link {
                         font-size     : 14px;
-                        color         : black;
+                        color         : white;
                         text-transform: uppercase;
                         font-weight   : 500;
                         padding       : 10px 10px 20px;

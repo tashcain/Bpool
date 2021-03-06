@@ -23,12 +23,12 @@ function StickyMenu() {
     return (
         <Styles>
             {/* Sticky Menu */}
-            <section className="sticky-menu">
+            <section className="bg-dark sticky-menu">
                 <Container>
                     <Row>
                     <Col md="2">
                                     <div className="logo">
-                                        <Link to={process.env.PUBLIC_URL + "/"}><img style={{height: "60px"}} src={Logo} alt="" /><span className="Logo">BSCPOOL</span></Link>
+                                        <Link to={process.env.PUBLIC_URL + "/"}><img style={{height: "60px",   }} src={Logo} alt="" /><span style={{color: "white"}} className="Logo">BSCPOOL</span></Link>
                                     </div>
                                 </Col>
                         {/* <Col md="3">
@@ -38,7 +38,7 @@ function StickyMenu() {
                         </Col> */}
                         <Col md="10">
                             <div className="menu-box d-flex justify-content-end">
-                                <ul className="nav menu-nav">
+                                <ul  className="nav menu-nav">
                                     <li className="nav-item dropdown active">
                                         <Link className="nav-link dropdown-toggle" to={process.env.PUBLIC_URL + "/"} data-toggle="dropdown">How it Works <i className="las la-angle-down"></i></Link>
                                         

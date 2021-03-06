@@ -85,7 +85,6 @@
 background-image: linear-gradient(315deg, #ff0000 0%, #ffed00 74%); */
     font-size: 2.2rem;
     font-family: 'Roboto Condensed', sans-serif;
-    color : black;
 /*     
     background: -webkit-linear-gradient(315deg, #ffed00 30%, #ff0000 74%);
     -webkit-background-clip: text;
@@ -94,7 +93,7 @@ background-image: linear-gradient(315deg, #ff0000 0%, #ffed00 74%); */
   
   .custom-btnl {
     margin-left: 70px;
-    color: black;
+    color: white;
     width: auto;
     height: auto;
     padding: 10px 40px;
@@ -125,9 +124,9 @@ background-image: linear-gradient(315deg, #ff0000 0%, #ffed00 74%); */
   }
 
   .btn-13l {
-    color: black;
-    box-shadow: 0 0 5px black, 0 0 5px black inset;
-    border: 0.5px solid black;
+    color: white;
+    box-shadow: 0 0 5px white, 0 0 5px white inset;
+    border: 0.5px solid white;
     z-index: 1;
   }
   

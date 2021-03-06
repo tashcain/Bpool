@@ -45,7 +45,7 @@ class Header extends Component {
                             <Row>
                                 <Col md="2">
                                     <div className="logo">
-                                        <Link ><img style={{height: "60px"}} src={Logo} alt="" /><span className="Logo">Bscpool</span></Link>
+                                        <Link ><img style={{height: "60px"}} src={Logo} alt="" /><span style={{color: "white"}} className="Logo">Bscpool</span></Link>
                                     </div>
                                 </Col>
                                 <Col md="10">

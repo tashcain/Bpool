@@ -9,6 +9,7 @@ import '../styles/landingpage.css';
 import TestimonialSlider from '../components/TestimonialSlider';
 import '../styles/home.css';
 import Footer from '../components/footer';
+import Video from '../components/video';
 
 function Home() {
     return (
@@ -17,8 +18,8 @@ function Home() {
            <div>
                 <Header/>
            </div>
-           <div className=" hiw land">
-           <Landbody/>
+           <div >
+           <Video/>
            </div>
            <br/>
            <div style={{padding: "20px 0 20px 0"}}>

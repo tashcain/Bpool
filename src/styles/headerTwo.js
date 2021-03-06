@@ -187,7 +187,8 @@ export const Styles = styled.div`
     }
 
     .logo-area2 {
-        background:  #f3ba2f;
+        background:  ;
+        #f3ba2f
         #182B49;
         height     : 82px;
         padding-top: 20px;
@@ -209,7 +210,7 @@ export const Styles = styled.div`
 
                     a.nav-link {
                         font-size     : 14px;
-                        color         : black;
+                        color         : white;
                         text-transform: uppercase;
                         font-weight   : 500;
                         padding       : 10px 10px 20px;
