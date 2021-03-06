@@ -97,11 +97,12 @@ function Footer(){
                                 </svg>
                                 </li>
                                 </a>
-                                <li className="nav-item dropdown">
-                                                <Link className="nav-link dropdown-toggle" to='/join' data-toggle="dropdown">
-                                                <img style={{height : "14px"}} src={Medium}/>                                                </Link>
-                                                
-                                            </li>
+                                {/* <li className="nav-item ">
+                                                <Link className="nav-link " to='/join' >
+                                                 <img style={{height : "14px"}} src={Medium}/>
+                                                <h6 style={{color: "white"}}>M</h6>
+                                                </Link>
+                                    </li>  */}
                                             
                                 </ul>
                                 

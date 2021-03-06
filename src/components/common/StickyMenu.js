@@ -99,7 +99,9 @@ function StickyMenu() {
                                             <li className="nav-item dropdown">
                                                 {/* <Link className="nav-link dropdown-toggle"  data-toggle="dropdown"> */}
                                                 <a className="nav-link dropdown-toggle" href="https://medium.com/@bscpool" target="_blank">
-                                                <img style={{height : "14px"}} src={Medium}/>  
+                                                {/* <img style={{height : "14px"}} src={Medium}/>   */}
+                                                <h5 style={{color: "white"}}>M</h5>
+
                                                 </a> 
                                                                                              {/* </Link> */}
                                                 
