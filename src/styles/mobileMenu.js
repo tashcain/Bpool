@@ -4,7 +4,7 @@ import { colors } from "../components/element/element";
 export const Styles = styled.div`
 
 .mobile-menu-area {
-    background : rgb(243, 186, 47);
+
     display: none;
     .mb-topbar {
         border-bottom: 1px solid ${colors.black2};
@@ -50,7 +50,6 @@ export const Styles = styled.div`
                 &:before {
                     position: absolute;
                     content : "";
-                    background : ${colors.text1};
                     width: 1px;
                     height: 25px;
                     top: -4px;

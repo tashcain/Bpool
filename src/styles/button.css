@@ -101,6 +101,7 @@
 background-image: linear-gradient(315deg, #ff0000 0%, #ffed00 74%); */
     font-size: 2.2rem;
     font-family: 'Roboto Condensed', sans-serif;
+    color: white;
 /*     
     background: -webkit-linear-gradient(315deg, #ffed00 30%, #ff0000 74%);
     -webkit-background-clip: text;
