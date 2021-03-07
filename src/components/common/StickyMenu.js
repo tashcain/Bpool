@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import { Styles } from "../../styles/stickyMenu.js";
 import '../../styles/button.css';
 import Logo from '../../asset/logo.png';
-import Medium from "../../asset/medium-r.png";
+import Medium from "../../asset/medium-white.jpeg";
 
 
 function StickyMenu() {
@@ -99,8 +99,8 @@ function StickyMenu() {
                                             <li className="nav-item dropdown">
                                                 {/* <Link className="nav-link dropdown-toggle"  data-toggle="dropdown"> */}
                                                 <a className="nav-link dropdown-toggle" href="https://medium.com/@bscpool" target="_blank">
-                                                {/* <img style={{height : "14px"}} src={Medium}/>   */}
-                                                <h5 style={{color: "white"}}>M</h5>
+                                                <img style={{height : "20px"}} src={Medium}/>  
+                                                {/* <h5 style={{color: "white"}}>M</h5> */}
 
                                                 </a> 
                                                                                              {/* </Link> */}

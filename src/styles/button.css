@@ -47,6 +47,22 @@
     border-radius: 40px;
   }
 
+  .custom-btnp{
+    color: white;
+    width: auto;
+    height: 35px;
+    padding: 0px 67px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    border-radius: 40px;
+  }
+
   .btnsel{
     color: black;
   }

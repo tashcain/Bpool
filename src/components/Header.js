@@ -9,7 +9,7 @@ import { Styles } from "../styles/headerTwo";
 import '../styles/button.css';
 import { scroller } from "react-scroll";
 import Logo from '../asset/logo.png';
-import Mediumw from '../asset/medium-white.png';
+import Mediumw from '../asset/medium-white.jpeg';
 
 
 
@@ -111,8 +111,8 @@ class Header extends Component {
                                             <li className="nav-item dropdown">
                                                 {/* <Link className="nav-link dropdown-toggle"  data-toggle="dropdown"> */}
                                                 <a className="nav-link dropdown-toggle" href="https://medium.com/@bscpool" target="_blank">
-                                                {/* <img style={{height : "14px"}} src={Mediumw}/>   */}
-                                                <h5 style={{color: "white"}}>M</h5>
+                                                <img style={{height : "20px"}} src={Mediumw}/>  
+                                                {/* <h5 style={{color: "white"}}>M</h5> */}
                                                 </a> 
                                                                                              {/* </Link> */}
                                                 

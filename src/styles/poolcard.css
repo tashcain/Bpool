@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
+.hunderlist{
+  list-style-type: '👉';
+  padding-inline-start: 1ch
+}
+
+
+.cardj {
+    background: #fff;
+    display: inline-block;
+    height: auto;
+    margin: 1rem;
+    position: relative;
+    width: auto;
+    border-radius: 5%;
+    padding: 2% 2% 2% 2%;
+    color: white;
+
+  }
+
+  @media(max-width : 400px){
+    .cardj{
+      padding: 5% 5% 5% 5%;
+    }
+  }
+  
+  .cardp{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .card-1 {
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border : 3px solid #f3ba2f;
+  }
+  
+  /* .card-1:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border : 3px solid #f3ba2f;
+  } */
