@@ -209,11 +209,10 @@ export const Styles = styled.div`
                     position: relative;
 
                     a.nav-link {
-                        font-size     : 14px;
+                        font-size     : 17px;
                         color         : white;
-                        text-transform: uppercase;
                         font-weight   : 500;
-                        padding       : 10px 10px 20px;
+                        padding       : 13px 10px 20px;
 
                         i {
                             font-size: 12px;

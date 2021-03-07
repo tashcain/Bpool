@@ -81,7 +81,7 @@ class Joinheader extends Component {
                                     
                                     <div className="menu-box d-flex justify-content-end">
                                         
-                                        <div>
+                                        <div style={{paddingTop : "8px"}}>
                                         <button class="custom-btnl btn-13l">Connect Wallet</button>
                                         </div>
 

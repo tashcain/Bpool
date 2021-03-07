@@ -13,7 +13,7 @@ function Home4(props) {
             <Container>
                 <Row>
                     <Col data-aos="fade-up" align="center">
-                        <h1 className="heading heading2">How Launchpool staking works</h1>
+                        <h1 className="heading heading2">How Bscpool staking works</h1>
                         <br/>
                         <span className="hunder">
                         Most notably project tokens can be obtained at the same price large crypto investment funds get them, promoting equality among stakeholders. This also provides transparency and negates any party having any advantages over another.

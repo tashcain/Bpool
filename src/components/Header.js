@@ -120,7 +120,7 @@ class Header extends Component {
                                             
                                             </ul>
                                         </div>
-                                        <div>
+                                        <div style={{paddingTop : "8px"}}>
                                         <Link to="/join"><button class="custom-btnl btn-13l">Launch App</button></Link>
                                         </div>
 

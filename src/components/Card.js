@@ -5,7 +5,7 @@ import '../styles/card.css';
 function Card(props) {
     return (
         <div>
-            <div class="card card-1">
+            <div class="card card-11">
                 <img style={{height:"92px", marginLeft: "62px"}} src = {props.img} alt="lll"/>
                 <br/>
                 <br/>

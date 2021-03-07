@@ -14,7 +14,7 @@
 }
 
 body {
-  background: grey;
+  background: lightgrey !important;
 }
 .App-header {
   background-color: #282c34;

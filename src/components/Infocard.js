@@ -5,7 +5,7 @@ import '../styles/home.css';
 function Infocard(props) {
     return (
         <div>
-            <div class="card card-1">
+            <div class="card card-11">
                 <span className="infoheading">{props.head}</span>
                 <br/>
                 <span>
