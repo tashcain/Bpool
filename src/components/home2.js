@@ -29,13 +29,13 @@ function Home2(props) {
                 </Row>
                 <Row>
                     <Col data-aos="fade-right">
-                        <Card img = {Img1}   head = "Title" data="Funds provide a portion of their deal flow to the Bscpool platform on exactly the same terms they receive as early investors. $Bpool holders stake $Bpool to access a related portion of the deal on offer."/>
+                        <Card img = {Img1}   head = "Title" data="Funds provide a portion of their deal flow to the Bscpool platform on the precisely the same which is received as early Investors.$BPOOL stake $BPOOL to access an associated portion of the very deal on offer."/>
                     </Col>
                     <Col data-aos="fade-down">
-                        <Card img= {Img2} head = "Title" data="Funds provide a portion of their deal flow to the Bscpool platform on exactly the same terms they receive as early investors. $Bpool holders stake $Bpool to access a related portion of the deal on offer."/>
+                        <Card img= {Img2} head = "Title" data="$BPOOL holders are a group of investors, influencers, customers, growth hackers, trade and knowledgeable industry participants who are brought together to form an incentivised community around the project they have invested in."/>
                     </Col>
                     <Col data-aos="fade-up">
-                        <Card img ={Img3} head = "Title" data="Funds provide a portion of their deal flow to the Bscpool platform on exactly the same terms they receive as early investors. $Bpool holders stake $Bpool to access a related portion of the deal on offer."/>
+                        <Card img ={Img3} head = "Title" data="$BPOOL is open to all, simply stake one of the tokens found on the staking page to start earning your $BPOOL for free. You can withdraw your stake and $BPOOL at any time."/>
                     </Col>
                 </Row>
             </Container>

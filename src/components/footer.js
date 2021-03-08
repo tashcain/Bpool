@@ -17,7 +17,7 @@ function Footer(){
                         <Row >
                             <Col>
                             <span style={{fontSize: "2.5rem"}}>
-                                Alphabit, in association with its partners, proudly announce project Launchpool.
+                                Alphabit, in association with its partners, proudly announce project Bscpool.
                             </span>
                             <br/>
                             <br/>
@@ -31,7 +31,7 @@ function Footer(){
                         <Row>
                             <Col>
                                 <span style={{fontSize: "1.0rem"}}>
-                                Launchpool leverages communities, knowledge, expertise, contacts and capital to provide crypto projects with the best possible start to life, maximising their chances for success in this fast moving and dynamic space.
+                                Bscpool leverages communities, knowledge, expertise, contacts and capital to provide crypto projects with the best possible start to life, maximising their chances for success in this fast moving and dynamic space.
                                 </span>
                             </Col>
                         </Row>
