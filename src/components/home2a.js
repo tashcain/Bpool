@@ -32,10 +32,10 @@ function Home2(props) {
                         <Card img = {Img1}   head = "Title" data="Funds provide a portion of their deal flow to the Bscpool platform on exactly the same terms they receive as early investors. $Bpool holders stake $Bpool to access a related portion of the deal on offer."/>
                     </Col>
                     <Col data-aos="fade-down">
-                        <Card img= {Img2} head = "Title" data="Coming Soon"/>
+                        <Card fs = "54px" img= {Img2} head = "Title" data="Coming Soon"/>
                     </Col>
                     <Col data-aos="fade-up">
-                        <Card img ={Img3} head = "Title" data="Coming Soon"/>
+                        <Card fs = "54px" img ={Img3} head = "Title" data="Coming Soon"/>
                     </Col>
                 </Row>
             </Container>

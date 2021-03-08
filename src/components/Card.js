@@ -6,10 +6,10 @@ function Card(props) {
     return (
         <div>
             <div class="card card-11">
-                <img style={{height:"92px", marginLeft: "62px"}} src = {props.img} alt="lll"/>
+                <img style={{height:"92px", marginLeft: "60px"}} src = {props.img} alt="lll"/>
                 <br/>
                 <br/>
-                <p className="cardp">
+                <p style={{fontSize : props.fs }} className="cardp">
                     {props.data}
                 </p>
             </div>
